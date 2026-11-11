@@ -58,3 +58,8 @@ nav p{
     font-size: 18px;
     color: #333;
 }
+@media (max-width: 600px) {
+    nav  {
+        flex-direction: column;
+    }
+}
