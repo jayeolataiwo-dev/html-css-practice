@@ -65,7 +65,7 @@ nav p{
     }
      nav ul {
         flex-wrap: wrap;
-        gap: 5px;
+        gap: 15px;
         justify-content: center;
     }
 
